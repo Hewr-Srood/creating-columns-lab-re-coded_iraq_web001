@@ -46,11 +46,7 @@ img:hover {
   background-color: #dd4444;
 }
 
-.container{
-display: grid;
-grid-template-columns: repeat(3,33%);
 
-}
 /* create a column class! make sure all of the divs within 'container's have a class of 'column' */
 .column{
  display: inline-block;
