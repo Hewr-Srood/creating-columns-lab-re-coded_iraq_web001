@@ -54,7 +54,7 @@ grid-template-columns: repeat(3,1fr);
 /* create a column class! make sure all of the divs within 'container's have a class of 'column' */
 .column{
 
-  flex: 48%
+
 }
 
 /* create your tile classes! we recommend .small .med .large */
