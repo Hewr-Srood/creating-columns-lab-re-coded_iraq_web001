@@ -47,8 +47,8 @@ img:hover {
 }
 
 .container{
-display: flex;
-flex-wrap: wrap;
+display: grid;
+grid-template-columns: auto;
 
 }
 /* create a column class! make sure all of the divs within 'container's have a class of 'column' */
