@@ -48,7 +48,7 @@ img:hover {
 
 .container{
 display: grid;
-grid-template-columns: repeat(3,1fr);
+grid-template-columns: repeat(3,30%);
 
 }
 /* create a column class! make sure all of the divs within 'container's have a class of 'column' */
