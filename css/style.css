@@ -59,12 +59,12 @@ flex-wrap: wrap;
 
 /* create your tile classes! we recommend .small .med .large */
 .small {
-  width: 24%
+  width: 100%
 }
 .med {
-
+width: 200%
 
 }
-img{
-
+.large{
+  width: 300%
 }
